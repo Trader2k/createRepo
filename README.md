@@ -6,6 +6,8 @@ This project is inspired by Kalle Halden (<https://github.com/KalleHallden)> AND
 Check his repository out:<https://github.com/KalleHallden/ProjectInitializationAutomation> \
 Check his repository out:<https://github.com/eichingertim/ProjectCreationAutomation>
 
+Create automatically Repository, Folder, README.md and gitignore (venv, .vscode). For windows systems
+
 ## How to install
 
 **BEFORE CLONING** make sure that you have already installed the newest version of python and you succesfully added it to your SYSTEM-PATH.
