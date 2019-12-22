@@ -33,7 +33,7 @@ To create a new project just open your command-line (cmd) and type in a command 
 create <ProjectName> <private/public>
 ```
 ### REMOVE
-**USE WITH CAUTION - DELETING without question**
+**USE WITH CAUTION - DELETING without question** \
 To delete a Projekt and remove the repository open the command-line (cmd) and type in:
 ```bash
 remove <ProjektName>
