@@ -17,7 +17,7 @@ Create automatically Repository, Folder, README.md and gitignore (venv, .vscode)
 Goto your command-line (cmd) and navigate to the location where you want to clone this project. Then type:
 
 ``` bash
-git clone "https://github.com/trader2k/createRepo"
+git clone "https://github.com/dirkmothes/createRepo"
 cd createRepo
 pip install -r requirements.txt
 ```
